@@ -1,0 +1,64 @@
+.menu-text {
+  background-color: red;
+  color: white;
+}
+
+.top-bar {
+  padding: 0;
+}
+
+.submenu {
+  min-width: 115px;
+}
+
+.menu.submenu.is-dropdown-submenu.first-sub.vertical li{
+  background: red;
+  color: white;
+}
+
+.menu-text a {
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fi-social-facebook {
+  color:dodgerblue;font-size:2rem;
+}
+.fi-social-youtube {
+  color:red;font-size:2rem;
+}
+.fi-social-pinterest {
+  color:darkred;font-size:2rem;
+}
+i.fi-social-instagram {
+  color:brown;font-size:2rem;
+}
+i.fi-social-tumblr {
+  color:navy;font-size:2rem;
+}
+.fi-social-twitter {
+  color:skyblue;font-size:2rem;
+}
